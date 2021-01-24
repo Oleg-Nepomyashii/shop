@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "productId": 648739,
+      "price": 27.00,
+      "image" : "",
+      "discount": 0,
+      "inventory": 5,
+      "description": "product description",
+      "trialPriceLimit": 1,
+      "trialPriceDiscount": 10
+    },
+    {
+      "productId": 648740,
+      "price": 20.00,
+      "image" : "",
+      "discount": 0,
+      "inventory": 5,
+      "description": "product description 2",
+      "trialPriceLimit": 0,
+      "trialPriceDiscount": 0
+    }
+  ]
+}
